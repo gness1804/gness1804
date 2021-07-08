@@ -1,6 +1,6 @@
 ### Greetings!
 
-<!-- image goes here -->
+![My cat Mal](https://github.com/gness1804/gness1804/blob/main/assets/mal.jpg)
 
 I'm Graham, a web developer current based in Austin, TX. My primary expertise is front end--ES6 and modern frameworks, especially React and Svelte. I've also built projects in Node.js.
 
