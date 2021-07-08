@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings! 
+
+I'm Graham, a web developer current based in Austin, TX. My primary expertise is front end--ES6 and modern frameworks, especially React and Svelte. I've also built projects in Node.js. 
 
 <!--
 **gness1804/gness1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
