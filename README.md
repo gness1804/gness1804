@@ -7,7 +7,6 @@ I'm Graham, a web developer current based in Austin, TX. My primary expertise is
 - 🔭 I’m currently working on ...
 Creating new npm packages. These WIP include:
 	- [remove-console-stuff](https://github.com/gness1804/remove-console-stuff)
-	- [nice-password-generator](https://github.com/gness1804/nice-password-generator)
 
 * My published npm packages:
 
