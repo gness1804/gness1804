@@ -6,7 +6,7 @@ I'm Graham, a web developer current based in Austin, TX. My primary expertise is
 
 - 🔭 I’m currently working on ...
 Creating new npm packages. These WIP include:
-	- [remove-console-stuff](https://github.com/gness1804/remove-console-stuff)
+	- [remove-console-statements](gness1804/remove-console-statements)
 
 * My published npm packages:
 
