@@ -5,17 +5,17 @@
 I'm Graham, a web developer current based in Austin, TX. My primary expertise is front end--ES6 and modern frameworks, especially React and Svelte. I've also built projects in Node.js.
 
 - 🔭 I’m currently working on ...
-Creating new npm packages. These WIP include:
-	- [remove-console-statements](gness1804/remove-console-statements)
+Creating new npm packages. Check  back soon for details!
 
 * My published npm packages:
 
 	- [@gness1804/create-node-cli](https://www.npmjs.com/package/@gness1804/create-node-cli)
 	- [@gness1804/color-converters](https://www.npmjs.com/package/@gness1804/color-converters)
 	- [heic-to-jpg](https://www.npmjs.com/package/heic-to-jpg)
+	- [remove-console-statements](https://www.npmjs.com/package/remove-console-statements)
 
 - 🌱 I’m currently learning ...
-	- AWS Cloud Practitioner course
+	- AngularJS
 
 - 📫 How to reach me: ...
 	- gness1804@gmail.com
